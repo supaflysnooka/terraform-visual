@@ -8,7 +8,7 @@
     "deploy": "touch dist/.nojekyll && node scripts/deploy"
   },
   "dependencies": {
-    "@antv/g6": "^3.6.0",
+    "@antv/g6": "^3.8.5",
     "amplitude-js": "^7.1.0",
     "lodash": "^4.17.19",
     "next": "^9.5.4",
