@@ -21,7 +21,7 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "commander": "^6.0.0",
+    "commander": "^6.2.1",
     "fs-extra": "^9.0.1"
   },
   "repository": {
